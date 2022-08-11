@@ -1,0 +1,23 @@
+[33mcommit 68da25821144f954ed2841f741fc367f5fc84462[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Dave White <dav3white@gmail.com>
+Date:   Thu Aug 11 22:05:44 2022 +0100
+
+    Add recipe descriptions
+
+[33mcommit d56498d231affe89e7ecf38c68d520ecb782d5f8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Dave White <dav3white@gmail.com>
+Date:   Thu Aug 11 21:55:07 2022 +0100
+
+    Add headings, lists of ingredients, and method
+
+[33mcommit 6f8fd6ab49c2e2311c33a86a92179116490243bd[m
+Author: Dave White <dav3white@gmail.com>
+Date:   Thu Aug 11 21:44:23 2022 +0100
+
+    Added recipe pages with images
+
+[33mcommit aa5ffd831b93c8a94ffa9131a0f161710e18c115[m
+Author: Dave White <dav3white@gmail.com>
+Date:   Thu Aug 11 18:00:52 2022 +0100
+
+    Add file structure and basic htmls pages
